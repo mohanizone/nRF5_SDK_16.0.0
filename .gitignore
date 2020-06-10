@@ -37,3 +37,5 @@ copy_merge_hex.sh
 *.o
 *.d
 *.asm
+*.ind
+*.ld
