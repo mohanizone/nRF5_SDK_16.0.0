@@ -28,3 +28,11 @@ copy_merge_hex.sh
 
 #SonarQube
 .scannerwork/
+
+
+*.hex
+*.map
+*.elf
+*.txt
+*.o
+*.d
